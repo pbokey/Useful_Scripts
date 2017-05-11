@@ -1,5 +1,5 @@
 # Useful_Scripts
-Useful scripts written in python
+Useful scripts/programs written in Python, C++
 To run these scripts just download them to your computer and run them in terminal/command prompt
 
 1. **anagrams**
